@@ -132,10 +132,10 @@ class Result
 //Массив с результатами
 const results = 
 [
-	new Result("Праздник же. Все подарки твои:) Переходи по ссылке ", 0),
-	new Result("И тут тоже знаешь. Все подарки твои:) Переходи по ссылке ", 2),
-	new Result("Тут тоже знаний много. Все подарки твои:) Переходи по ссылке ", 4),
-	new Result("Ты всё знаешь. Все подарки твои:) Переходи по ссылке podarki.html", 6)
+	new Result("Праздник же. Все подарки твои:) Переходи по ссылке https://hany0n.github.io/podarki.github.io/", 0),
+	new Result("И тут тоже знаешь. Все подарки твои:) Переходи по ссылке https://hany0n.github.io/podarki.github.io/", 2),
+	new Result("Тут тоже знаний много. Все подарки твои:) Переходи по ссылке https://hany0n.github.io/podarki.github.io/", 4),
+	new Result("Ты всё знаешь. Все подарки твои:) Переходи по ссылке https://hany0n.github.io/podarki.github.io/", 6)
 ];
 
 //Массив с вопросами
